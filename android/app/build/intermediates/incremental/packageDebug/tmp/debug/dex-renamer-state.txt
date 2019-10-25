@@ -1,0 +1,4 @@
+#Wed Oct 23 02:32:13 PKT 2019
+base.0=/Users/shaggy/Documents/mapsapp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
